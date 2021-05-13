@@ -1,0 +1,33 @@
+h1{
+    background-color: yellow;
+    text-align: center;
+}
+#hed{
+    background-color:paleturquoise;
+    flex: 100px;
+    text-align: center;
+
+}
+
+#scho{
+    text-align: left;
+background-color: cadetblue;
+display: flex;       
+flex-wrap:  wrap;  
+justify-content: space-around; 
+} 
+
+table,th,td,tr{
+    width: 200px;
+    border: 1px solid blue;
+  margin-left: 10px;
+
+
+    
+}
+#socl{
+    background-color:lightyellow;
+    display: flex;       
+    flex-wrap:  wrap;  
+    justify-content: space-around;
+}
